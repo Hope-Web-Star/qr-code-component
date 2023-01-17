@@ -17,7 +17,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images\QR-code-ScreenShot)
+<p>
+  <img src="images\QR-code-ScreenShot.png" width="820" height="400" />
+</p>
 
 ### Links
 
@@ -31,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Google Fonts: [Font: Outfit](https://fonts.google.com/specimen/Outfit)
 
-- Built in Visual Studio Code [Application](https://code.visualstudio.com/)
+- Built in [Visual Studio Code](https://code.visualstudio.com/)
 
 ### What I learned
 
