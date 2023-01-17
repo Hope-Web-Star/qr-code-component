@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <p>
-  <img src="images\QR-code-ScreenShot.png" width="820" height="400" />
+  <img src="images\QR-code-ScreenShot.png" width="1020" height="500" />
 </p>
 
 ### Links
